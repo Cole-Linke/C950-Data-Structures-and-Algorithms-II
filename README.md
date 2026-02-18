@@ -2,3 +2,5 @@ C950 - Data Structures and Algorithms II - Data Structures and Algorithms II exp
 structures and supporting algorithms, including graphs, hashing, self-adjusting data structures, set representations, and dynamic programming. The
 course also introduces students to NP-complete problems. The course discusses how to use Python techniques to implement software solutions for
 problems of memory management and data compression. 
+
+Task: Developed a Python-based package delivery routing system using a greedy nearest-neighbor algorithm.
