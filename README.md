@@ -4,7 +4,7 @@ structures and supporting algorithms, including graphs, hashing, self-adjusting 
 course also introduces students to NP-complete problems. The course discusses how to use Python techniques to implement software solutions for
 problems of memory management and data compression. 
 
-# Tasks 
+## Tasks 
 Developed a Python-based package delivery routing system using a greedy nearest-neighbor algorithm.
 
 Algorithm Overview:
@@ -19,17 +19,17 @@ Algorithm Write Up:
 C950 Folder:
 - Python application
 
-# Requirements
+## Requirements
 - Python
 
-# User Guide (Local Setup)
+## User Guide (Local Setup)
 ```bash
 git clone https://github.com/Cole-Linke/C950-Data-Structures-and-Algorithms-II.git
 cd 950
 python main.py
 ```
 
-# How to Use
+## How to Use
 - Once the application is running truck metrics and a menu will be displayed
 - Follow the menu by typing a number and pressing enter
 1. Gets all package details at the end of the day
